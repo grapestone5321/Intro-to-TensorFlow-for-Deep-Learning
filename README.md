@@ -88,7 +88,30 @@ earn how to deploy your models on Android, iOS, and IoT devices using TensorFlow
 
 
 # Keras - Python Deep Learning Neural Network API
+https://deeplizard.com/learn/video/RznKVRTFkBY
+
+Hey, we’re Chris and Mandy! We're the creators of deeplizard
+
+## Why Keras?
+Keras was developed with a focus on enabling fast experimentation. Because of this, it's very user friendly and allows us to go from idea to implementation with only a few steps.
+
+Aside from this, users often wonder why choose Keras over another neural network API?Why Keras?
+
+Keras was developed with a focus on enabling fast experimentation. Because of this, it's very user friendly and allows us to go from idea to implementation with only a few steps.
+
+Aside from this, users often wonder why choose Keras over another neural network API?
+
+## TensorFlow Integration
+Keras was originally created by François Chollet. 
+
+Historically, Keras was a high-level API that sat on top of one of three lower level neural network APIs and acted as a wrapper to to these lower level libraries. 
+
+These libraries were referred to as Keras backend engines.
+
+
+# Video
 https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
+
 
 
 This series will teach you how to use Keras, a neural network API written in Python. 
