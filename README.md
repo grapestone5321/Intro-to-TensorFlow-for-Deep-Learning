@@ -15,7 +15,7 @@ https://keras.io/
 
 -------
 
-# Intro to TensorFlow for Deep Learning
+# Intro to TensorFlow for Deep Learning: Udacity free Course
 
 
 ## LESSON 1: Welcome to the Course
